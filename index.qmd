@@ -8,22 +8,24 @@ format:
 
 # Chromagrams of favorite songs:
 
-## Column {width=40%}
+## Column {width="40%"}
 
-### Row {height=30%}
+### Row {height="30%"}
 
-::: {.card}
+::: card
 This will be the first page of my portfolio!
 :::
 
-### Row {height=70%}
-:::{.card}
-Second card babyyy!!!
-![](voor_alles_bang_timbre_ssm.png)
+### Row {height="70%"}
+
+::: card
+Second card babyyy!!! ![](voor_alles_bang_timbre_ssm.png)
 :::
 
-## Column {width=60%}
-:::{.card}
+## Column {width="60%"}
+
+::: card
 Second column!!!!!!
 :::
----
+
+------------------------------------------------------------------------
